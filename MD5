@@ -1,0 +1,12 @@
+bf5cf38e1933bc1d16f10034fe199f4b *DESCRIPTION
+fe08bd99db139e11b6a0146fd7bc15d0 *LICENSE
+1d39bd30980d41635d4e41cce9a404d1 *NAMESPACE
+502d4564fba2fc67e18859c4c10059e0 *R/bootFbar.R
+f8c4e4ac0252962d70865244635440b4 *R/persimon.R
+521e8c26089e55ae7a1fc8aae5561fbf *README.md
+3094e32b722de093bc9371360256d3c6 *man/bootFbar.Rd
+706408f399a97a711bb6ad042ae18cf9 *man/bootstrap_fbar_sample.Rd
+5269986691b3d95cc96c541ab83cae83 *man/persimon.Rd
+c08a7a1fdd7a1b8e34df63bc723cc222 *tests/testthat.R
+58a2e03438ea90e0f25eae8a84dc271c *tests/testthat/test-bootFbar.R
+c8057ebca6b6441498ed27c35dcc8c96 *tests/testthat/test-persimon.R
